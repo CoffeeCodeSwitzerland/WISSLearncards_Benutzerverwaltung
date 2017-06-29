@@ -95,7 +95,7 @@
       </counter>
       <counter>
         <item-type type-id="" type="AbstractElementGroup" />
-        <value>17</value>
+        <value>20</value>
       </counter>
     </entity-ids>
     <diagrams>
@@ -148,7 +148,7 @@
       </meta>
       <abstract-items />
       <sub-models />
-      <diagram type="user-interface" id="p7cf67c07111e4cf4ae9e1a0bc2993c62_998755282" name="UserInterfaceDiagram1" order-index="1" show-id="false" show-name="true" show-parent-name="false" show-stereotypes="true" show-tagged-values="false" show-template-parameters="true" show-fields="true" show-empty-compartments="true" show-special-indicators="false" show-attributes="true" show-attribute-visibility="true" show-operations="true" show-operation-parameters="true" show-operation-visibility="true" show-nullability="true" show-sequence-number="false" show-extension-points="false" show-relationship-texts="true" show-description="false" show-field-description="false" auto-routed-paths="false" view-location="0,-88" zoom="0.5">
+      <diagram type="user-interface" id="p7cf67c07111e4cf4ae9e1a0bc2993c62_998755282" name="UserInterfaceDiagram1" order-index="1" show-id="false" show-name="true" show-parent-name="false" show-stereotypes="true" show-tagged-values="false" show-template-parameters="true" show-fields="true" show-empty-compartments="true" show-special-indicators="false" show-attributes="true" show-attribute-visibility="true" show-operations="true" show-operation-parameters="true" show-operation-visibility="true" show-nullability="true" show-sequence-number="false" show-extension-points="false" show-relationship-texts="true" show-description="false" show-field-description="false" auto-routed-paths="false" view-location="0,-71" zoom="0.4">
         <size width="1" height="1" unit="px" type="ExpandableAllDirections" />
         <style>
           <background-color index="1" color="#FFFFFFFF" />
@@ -161,7 +161,7 @@
           </authors>
           <description />
           <creation-date>06/29/2017 07:29:21</creation-date>
-          <change-date>06/29/2017 10:58:04</change-date>
+          <change-date>06/29/2017 12:02:18</change-date>
           <revision-count>0</revision-count>
           <version />
         </meta>
@@ -1081,19 +1081,22 @@
           <item id="di966858136827624885" cid="ELEM011" type="universal-connector" name="Derive/ Zeige SeverDoorErstellen" style-class="" visibility="package" change-tracking-state="added" creation-date="06/29/2017 10:53:48" from="di506554532659200060" to="di270812276895476376">
             <style class="default" />
           </item>
+          <item id="di684090990176914604" cid="BTN001" type="ui-button" name="DMO-Manager" style-class="" owner="di278187900429466137" visibility="package" change-tracking-state="added" creator="P5f6454bcb1e0438798dc56ac8f281b05" creation-date="06/29/2017 07:39:15">
+            <style class="default" />
+          </item>
         </abstract-items>
         <layer name="Default" visible="true" enabled="true" locked="false">
           <item id="di278187900429466137" iid="dda750623dfc41c492a3fb8694cd08c8" creation-date="06/29/2017 07:30:52" order-index="0" type="ui-window">
-            <layout ax="275.5" ay="382" awidth="269" aheight="142" x="275.5" y="382" width="269" height="142" />
+            <layout ax="275.5" ay="340.75" awidth="269" aheight="183.25" x="275.5" y="340.75" width="269" height="183.25" />
           </item>
           <item id="di774393901921157532" iid="ae8205c241634d75a8b9cb9d8d0960ac" creation-date="06/29/2017 07:53:11" order-index="3" type="ui-window">
             <layout ax="116" ay="638.5" awidth="588" aheight="368" x="116" y="638.5" width="588" height="368" />
           </item>
           <item id="di365179578576497819" iid="efd0c97408b34829b8895ef1bcb35de9" container="di278187900429466137" container-iid="dda750623dfc41c492a3fb8694cd08c8" creation-date="06/29/2017 07:39:15" order-index="2" type="ui-button">
-            <layout ax="353" ay="414" awidth="121" aheight="40" x="353" y="414" width="121" height="40" />
+            <layout ax="353" ay="372.75" awidth="121" aheight="40" x="353" y="372.75" width="121" height="40" />
           </item>
           <item id="di470907032588578693" iid="dc417f6ebc2541039e4b7b02cfb7cf5a" container="di278187900429466137" container-iid="dda750623dfc41c492a3fb8694cd08c8" creation-date="06/29/2017 07:39:15" order-index="2" type="ui-button">
-            <layout ax="353" ay="466" awidth="121" aheight="40" x="353" y="466" width="121" height="40" />
+            <layout ax="353" ay="475.375" awidth="121" aheight="40" x="353" y="475.375" width="121" height="40" />
           </item>
           <item id="di408757082358335336" iid="7c5f7d7f402247ebaba962106c61d7c1" container="di774393901921157532" container-iid="ae8205c241634d75a8b9cb9d8d0960ac" creation-date="06/29/2017 07:56:20" order-index="4" type="ui-toolbar">
             <layout ax="137" ay="676" awidth="223" aheight="42" x="137" y="676" width="223" height="42" />
@@ -1460,6 +1463,9 @@
           </item>
           <item id="di621664677323817359" iid="f8284d686c34434099f1ba176807ae5d" container="di270812276895476376" container-iid="e62765e5f7e54e998f1c565940e4d567" creation-date="06/29/2017 08:53:56" order-index="18" type="ui-button">
             <layout ax="1585" ay="150.875" awidth="155" aheight="28" x="1585" y="150.875" width="155" height="28" />
+          </item>
+          <item id="di684090990176914604" iid="cce25526d40c4bb5b645353c47b2bdc1" container="di278187900429466137" container-iid="dda750623dfc41c492a3fb8694cd08c8" creation-date="06/29/2017 07:39:15" order-index="2" type="ui-button">
+            <layout ax="353" ay="424.75" awidth="121" aheight="40" x="353" y="424.75" width="121" height="40" />
           </item>
         </layer>
       </diagram>

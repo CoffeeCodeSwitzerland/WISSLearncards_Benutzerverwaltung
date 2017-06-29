@@ -95,11 +95,7 @@
       </counter>
       <counter>
         <item-type type-id="" type="AbstractElementGroup" />
-        <value>343</value>
-      </counter>
-      <counter>
-        <item-type type-id="" type="UniversalConnector" />
-        <value>18</value>
+        <value>27</value>
       </counter>
     </entity-ids>
     <diagrams>
@@ -152,7 +148,7 @@
       </meta>
       <abstract-items />
       <sub-models />
-      <diagram type="user-interface" id="p7cf67c07111e4cf4ae9e1a0bc2993c62_998755282" name="UserInterfaceDiagram1" order-index="1" show-id="false" show-name="true" show-parent-name="false" show-stereotypes="true" show-tagged-values="false" show-template-parameters="true" show-fields="true" show-empty-compartments="true" show-special-indicators="false" show-attributes="true" show-attribute-visibility="true" show-operations="true" show-operation-parameters="true" show-operation-visibility="true" show-nullability="true" show-sequence-number="false" show-extension-points="false" show-relationship-texts="true" show-description="false" show-field-description="false" auto-routed-paths="false" view-location="0,-151" zoom="0.4">
+      <diagram type="user-interface" id="p7cf67c07111e4cf4ae9e1a0bc2993c62_998755282" name="UserInterfaceDiagram1" order-index="1" show-id="false" show-name="true" show-parent-name="false" show-stereotypes="true" show-tagged-values="false" show-template-parameters="true" show-fields="true" show-empty-compartments="true" show-special-indicators="false" show-attributes="true" show-attribute-visibility="true" show-operations="true" show-operation-parameters="true" show-operation-visibility="true" show-nullability="true" show-sequence-number="false" show-extension-points="false" show-relationship-texts="true" show-description="false" show-field-description="false" auto-routed-paths="false" view-location="292,37">
         <size width="1" height="1" unit="px" type="ExpandableAllDirections" />
         <style>
           <background-color index="1" color="#FFFFFFFF" />
@@ -165,7 +161,7 @@
           </authors>
           <description />
           <creation-date>06/29/2017 07:29:21</creation-date>
-          <change-date>06/29/2017 11:47:32</change-date>
+          <change-date>06/29/2017 13:20:39</change-date>
           <revision-count>0</revision-count>
           <version />
         </meta>
@@ -185,7 +181,7 @@
             <window show-min-button="true" show-max-button="true" show-close-button="true" show-size-grip="false" />
           </item>
           <item id="di852736750706485296" cid="BTN002" type="ui-button" name="Server" style-class="" visibility="package" change-tracking-state="added" creator="P5f6454bcb1e0438798dc56ac8f281b05" creation-date="06/29/2017 07:56:35">
-            <style style-name="Default" shadow-type="smooth" shadow-offset="1,1" shadow-visible="true" shadow-color="#32000000" gloss-effect="true" wrap-name-text="true" wrap-other-text="true" padding="1" margin="1" glow-color="#FFFFFFFF" accuracy="0.9">
+            <style style-name="Custom Style" shadow-type="smooth" shadow-offset="1,1" shadow-visible="true" shadow-color="#32000000" gloss-effect="true" wrap-name-text="true" wrap-other-text="true" padding="1" margin="1" glow-color="#FFFFFFFF" accuracy="0.9">
               <text-style type="name" use-defaults="false" color="#FF000000" font="Verdana;10;B" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
               <text-style type="part-header" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
               <text-style type="text" use-defaults="false" color="#FF000000" font="Verdana;9;" horizontal-alignment="left" vertical-alignment="center" shadow="false" />
@@ -263,7 +259,7 @@
             <style class="default" />
           </item>
           <item id="di399193154261772138" cid="BTN003" type="ui-button" name="Herunterladen" style-class="" owner="di774393901921157532" visibility="package" change-tracking-state="added" creator="P5f6454bcb1e0438798dc56ac8f281b05" creation-date="06/29/2017 08:04:15">
-            <style style-name="Default" shadow-type="smooth" shadow-offset="1,1" shadow-visible="true" shadow-color="#32000000" gloss-effect="true" wrap-name-text="true" wrap-other-text="true" padding="1" margin="1" glow-color="#FFFFFFFF" accuracy="0.9">
+            <style style-name="Custom Style" shadow-type="smooth" shadow-offset="1,1" shadow-visible="true" shadow-color="#32000000" gloss-effect="true" wrap-name-text="true" wrap-other-text="true" padding="1" margin="1" glow-color="#FFFFFFFF" accuracy="0.9">
               <text-style type="name" use-defaults="false" color="#FF000000" font="Verdana;8;B" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
               <text-style type="part-header" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
               <text-style type="text" use-defaults="false" color="#FF000000" font="Verdana;9;" horizontal-alignment="left" vertical-alignment="center" shadow="false" />
@@ -305,7 +301,7 @@
             <style class="default" />
           </item>
           <item id="di796830276260231575" cid="BTN003" type="ui-button" name="Herunterladen" style-class="" owner="di774393901921157532" visibility="package" change-tracking-state="added" creator="P5f6454bcb1e0438798dc56ac8f281b05" creation-date="06/29/2017 08:04:15">
-            <style style-name="Default" shadow-type="smooth" shadow-offset="1,1" shadow-visible="true" shadow-color="#32000000" gloss-effect="true" wrap-name-text="true" wrap-other-text="true" padding="1" margin="1" glow-color="#FFFFFFFF" accuracy="0.9">
+            <style style-name="Custom Style" shadow-type="smooth" shadow-offset="1,1" shadow-visible="true" shadow-color="#32000000" gloss-effect="true" wrap-name-text="true" wrap-other-text="true" padding="1" margin="1" glow-color="#FFFFFFFF" accuracy="0.9">
               <text-style type="name" use-defaults="false" color="#FF000000" font="Verdana;8;B" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
               <text-style type="part-header" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
               <text-style type="text" use-defaults="false" color="#FF000000" font="Verdana;9;" horizontal-alignment="left" vertical-alignment="center" shadow="false" />
@@ -329,7 +325,7 @@
             </style>
           </item>
           <item id="di670614716809865591" cid="BTN003" type="ui-button" name="Herunterladen" style-class="" owner="di774393901921157532" visibility="package" change-tracking-state="added" creator="P5f6454bcb1e0438798dc56ac8f281b05" creation-date="06/29/2017 08:04:15">
-            <style style-name="Default" shadow-type="smooth" shadow-offset="1,1" shadow-visible="true" shadow-color="#32000000" gloss-effect="true" wrap-name-text="true" wrap-other-text="true" padding="1" margin="1" glow-color="#FFFFFFFF" accuracy="0.9">
+            <style style-name="Custom Style" shadow-type="smooth" shadow-offset="1,1" shadow-visible="true" shadow-color="#32000000" gloss-effect="true" wrap-name-text="true" wrap-other-text="true" padding="1" margin="1" glow-color="#FFFFFFFF" accuracy="0.9">
               <text-style type="name" use-defaults="false" color="#FF000000" font="Verdana;8;B" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
               <text-style type="part-header" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
               <text-style type="text" use-defaults="false" color="#FF000000" font="Verdana;9;" horizontal-alignment="left" vertical-alignment="center" shadow="false" />
@@ -362,7 +358,7 @@
             <style class="default" />
           </item>
           <item id="di448034137930377454" cid="BTN003" type="ui-button" name="Herunterladen" style-class="" owner="di774393901921157532" visibility="package" change-tracking-state="added" creator="P5f6454bcb1e0438798dc56ac8f281b05" creation-date="06/29/2017 08:04:15">
-            <style style-name="Default" shadow-type="smooth" shadow-offset="1,1" shadow-visible="true" shadow-color="#32000000" gloss-effect="true" wrap-name-text="true" wrap-other-text="true" padding="1" margin="1" glow-color="#FFFFFFFF" accuracy="0.9">
+            <style style-name="Custom Style" shadow-type="smooth" shadow-offset="1,1" shadow-visible="true" shadow-color="#32000000" gloss-effect="true" wrap-name-text="true" wrap-other-text="true" padding="1" margin="1" glow-color="#FFFFFFFF" accuracy="0.9">
               <text-style type="name" use-defaults="false" color="#FF000000" font="Verdana;8;B" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
               <text-style type="part-header" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
               <text-style type="text" use-defaults="false" color="#FF000000" font="Verdana;9;" horizontal-alignment="left" vertical-alignment="center" shadow="false" />
@@ -388,7 +384,7 @@
           <item id="di334346189728790973" cid="ELEM003" type="ui-panel" name="testdoor" style-class="" owner="di774393901921157532" visibility="package" change-tracking-state="added" creator="P5f6454bcb1e0438798dc56ac8f281b05" creation-date="06/29/2017 08:04:25">
             <style class="default" />
           </item>
-          <item id="di133783629388881423" cid="LBL001" type="ui-label" name="teststack" style-class="" owner="di334346189728790973" visibility="package" change-tracking-state="added" creator="P5f6454bcb1e0438798dc56ac8f281b05" creation-date="06/29/2017 08:04:49">
+          <item id="di133783629388881423" cid="LBL001" type="ui-label" name="testdoor" style-class="" owner="di334346189728790973" visibility="package" change-tracking-state="added" creator="P5f6454bcb1e0438798dc56ac8f281b05" creation-date="06/29/2017 08:04:49">
             <style class="default" />
           </item>
           <item id="di862026693795599808" cid="BTN003" type="ui-button" name="i" style-class="" owner="di774393901921157532" visibility="package" change-tracking-state="added" creator="P5f6454bcb1e0438798dc56ac8f281b05" creation-date="06/29/2017 08:04:15">
@@ -404,7 +400,7 @@
           <item id="di163238606471797815" cid="ELEM002" type="ui-toolbar" name="Toolbar1" style-class="" owner="di227930294258026199" visibility="package" change-tracking-state="added" creator="P5f6454bcb1e0438798dc56ac8f281b05" creation-date="06/29/2017 07:56:20">
             <style class="default" />
           </item>
-          <item id="di262945673413469477" cid="BTN002" type="ui-button" name="Server" style-class="" owner="di163238606471797815" visibility="package" change-tracking-state="added" creator="P5f6454bcb1e0438798dc56ac8f281b05" creation-date="06/29/2017 07:56:35">
+          <item id="di262945673413469477" cid="BTN002" type="ui-button" name="Server" style-class="" visibility="package" change-tracking-state="added" creator="P5f6454bcb1e0438798dc56ac8f281b05" creation-date="06/29/2017 07:56:35">
             <style style-name="Custom Style" shadow-type="smooth" shadow-offset="1,1" shadow-visible="true" shadow-color="#32000000" gloss-effect="true" wrap-name-text="true" wrap-other-text="true" padding="1" margin="1" glow-color="#FFFFFFFF" accuracy="0.9">
               <text-style type="name" use-defaults="false" color="#FF000000" font="Verdana;10;B" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
               <text-style type="part-header" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
@@ -429,7 +425,7 @@
             </style>
           </item>
           <item id="di799050560990246188" cid="BTN002" type="ui-button" name="Lokal" style-class="" owner="di163238606471797815" visibility="package" change-tracking-state="added" creator="P5f6454bcb1e0438798dc56ac8f281b05" creation-date="06/29/2017 07:56:35">
-            <style style-name="Default" shadow-type="smooth" shadow-offset="1,1" shadow-visible="true" shadow-color="#32000000" gloss-effect="true" wrap-name-text="true" wrap-other-text="true" padding="1" margin="1" glow-color="#FFFFFFFF" accuracy="0.9">
+            <style style-name="Custom Style" shadow-type="smooth" shadow-offset="1,1" shadow-visible="true" shadow-color="#32000000" gloss-effect="true" wrap-name-text="true" wrap-other-text="true" padding="1" margin="1" glow-color="#FFFFFFFF" accuracy="0.9">
               <text-style type="name" use-defaults="false" color="#FF000000" font="Verdana;10;B" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
               <text-style type="part-header" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
               <text-style type="text" use-defaults="false" color="#FF000000" font="Verdana;9;" horizontal-alignment="left" vertical-alignment="center" shadow="false" />
@@ -476,7 +472,7 @@
           <item id="di174383320590681860" cid="LBL001" type="ui-label" name="++Erstellen++" style-class="" owner="di688984426604201606" visibility="package" change-tracking-state="added" creator="P5f6454bcb1e0438798dc56ac8f281b05" creation-date="06/29/2017 08:04:49">
             <style class="default" />
           </item>
-          <item id="di270560198580580363" cid="ELEM004" type="universal-connector" name="Hochalden / Zeige DoorHochladen im Own-Modus" style-class="" visibility="package" change-tracking-state="added" creator="P5f6454bcb1e0438798dc56ac8f281b05" creation-date="06/29/2017 08:41:04" from="di774393901921157532" to="di227930294258026199">
+          <item id="di270560198580580363" cid="ELEM004" type="universal-connector" name="Herunterladen / Zeige DoorHochladen im Own-Modus" style-class="" visibility="package" change-tracking-state="added" creator="P5f6454bcb1e0438798dc56ac8f281b05" creation-date="06/29/2017 08:41:04" from="di774393901921157532" to="di227930294258026199">
             <style class="default" />
           </item>
           <item id="di525614418884843128" cid="WND004" type="ui-window" name="Information" style-class="" visibility="package" change-tracking-state="added" creator="P5f6454bcb1e0438798dc56ac8f281b05" creation-date="06/29/2017 08:42:10">
@@ -679,7 +675,7 @@
             <style class="default" />
           </item>
           <item id="di397118058754893276" cid="WND005" type="ui-window" name="LokalDoorErstellen" style-class="" visibility="package" change-tracking-state="added" creator="P5f6454bcb1e0438798dc56ac8f281b05" creation-date="06/29/2017 08:47:18">
-            <style style-name="Default" shadow-type="smooth" shadow-offset="1,1" shadow-visible="true" shadow-color="#32000000" gloss-effect="true" wrap-name-text="true" wrap-other-text="true" padding="1" margin="1" glow-color="#FFFFFFFF" accuracy="0.9">
+            <style style-name="Custom Style" shadow-type="smooth" shadow-offset="1,1" shadow-visible="true" shadow-color="#32000000" gloss-effect="true" wrap-name-text="true" wrap-other-text="true" padding="1" margin="1" glow-color="#FFFFFFFF" accuracy="0.9">
               <text-style type="name" use-defaults="false" color="#FF000000" font="Verdana;10;BU" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
               <text-style type="part-header" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
               <text-style type="text" use-defaults="false" color="#FF000000" font="Verdana;9;" horizontal-alignment="left" vertical-alignment="center" shadow="false" />
@@ -781,7 +777,7 @@
           <item id="di306010962126487458" cid="BTN004" type="ui-button" name="Erstellen " style-class="" owner="di397118058754893276" visibility="package" change-tracking-state="added" creator="P5f6454bcb1e0438798dc56ac8f281b05" creation-date="06/29/2017 08:53:56">
             <style class="default" />
           </item>
-          <item id="di514232122398701699" cid="WND003" type="ui-window" name="DoorHochladen" style-class="" visibility="package" change-tracking-state="added" creator="P5f6454bcb1e0438798dc56ac8f281b05" creation-date="06/29/2017 08:13:48">
+          <item id="di514232122398701699" cid="WND003" type="ui-window" name="DoorHerunterladen" style-class="" visibility="package" change-tracking-state="added" creator="P5f6454bcb1e0438798dc56ac8f281b05" creation-date="06/29/2017 08:13:48">
             <style class="default" />
             <window show-min-button="true" show-max-button="true" show-close-button="true" show-size-grip="false" />
           </item>
@@ -824,7 +820,7 @@
           <item id="di993984180372421939" cid="BTN002" type="ui-button" name="Weiter" style-class="" owner="di514232122398701699" visibility="package" change-tracking-state="added" creator="P5f6454bcb1e0438798dc56ac8f281b05" creation-date="06/29/2017 07:56:35">
             <style class="default" />
           </item>
-          <item id="di611663843285671745" cid="ELEM007" type="universal-connector" name="Server-Modus / Zeige DoorHochladen" style-class="" visibility="package" change-tracking-state="added" creator="P5f6454bcb1e0438798dc56ac8f281b05" creation-date="06/29/2017 09:12:13" from="di227930294258026199" to="di514232122398701699">
+          <item id="di611663843285671745" cid="ELEM007" type="universal-connector" name="Server-Modus / Zeige DoorHerunterladen" style-class="" visibility="package" change-tracking-state="added" creator="P5f6454bcb1e0438798dc56ac8f281b05" creation-date="06/29/2017 09:12:13" from="di227930294258026199" to="di514232122398701699">
             <style class="default" />
           </item>
           <item id="di960665506524714930" cid="BTN002" type="ui-button" name="Own" style-class="" owner="di219253637100262904" visibility="package" change-tracking-state="added" creator="P5f6454bcb1e0438798dc56ac8f281b05" creation-date="06/29/2017 07:56:35">
@@ -1403,7 +1399,7 @@
             <style class="default" />
           </item>
           <item id="di538776790679754344" cid="WND005" type="ui-window" name="SeverDoorErstellen" style-class="" visibility="package" change-tracking-state="added" creator="P5f6454bcb1e0438798dc56ac8f281b05" creation-date="06/29/2017 08:47:18">
-            <style style-name="Default" shadow-type="smooth" shadow-offset="1,1" shadow-visible="true" shadow-color="#32000000" gloss-effect="true" wrap-name-text="true" wrap-other-text="true" padding="1" margin="1" glow-color="#FFFFFFFF" accuracy="0.9">
+            <style style-name="Custom Style" shadow-type="smooth" shadow-offset="1,1" shadow-visible="true" shadow-color="#32000000" gloss-effect="true" wrap-name-text="true" wrap-other-text="true" padding="1" margin="1" glow-color="#FFFFFFFF" accuracy="0.9">
               <text-style type="name" use-defaults="false" color="#FF000000" font="Verdana;10;B" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
               <text-style type="part-header" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
               <text-style type="text" use-defaults="false" color="#FF000000" font="Verdana;9;" horizontal-alignment="left" vertical-alignment="center" shadow="false" />
@@ -1428,7 +1424,7 @@
             <window show-min-button="true" show-max-button="true" show-close-button="true" show-size-grip="false" />
           </item>
           <item id="di939235306577150884" cid="TXT002" type="ui-text-box" name="Door.." style-class="" owner="di538776790679754344" visibility="package" change-tracking-state="added" creator="P5f6454bcb1e0438798dc56ac8f281b05" creation-date="06/29/2017 08:49:49">
-            <style style-name="Default" shadow-type="smooth" shadow-offset="1,1" shadow-visible="true" shadow-color="#32000000" gloss-effect="true" wrap-name-text="true" wrap-other-text="true" padding="1" margin="1" glow-color="#FFFFFFFF" accuracy="0.9">
+            <style style-name="Custom Style" shadow-type="smooth" shadow-offset="1,1" shadow-visible="true" shadow-color="#32000000" gloss-effect="true" wrap-name-text="true" wrap-other-text="true" padding="1" margin="1" glow-color="#FFFFFFFF" accuracy="0.9">
               <text-style type="name" use-defaults="false" color="#FF000000" font="Verdana;10;B" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
               <text-style type="part-header" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
               <text-style type="text" use-defaults="false" color="#FF000000" font="Verdana;9;" horizontal-alignment="left" vertical-alignment="center" shadow="false" />
@@ -1524,7 +1520,7 @@
             </style>
           </item>
           <item id="di698638394751069962" cid="BTN004" type="ui-button" name="Erstellen " style-class="" owner="di538776790679754344" visibility="package" change-tracking-state="added" creator="P5f6454bcb1e0438798dc56ac8f281b05" creation-date="06/29/2017 08:53:56">
-            <style style-name="Default" shadow-type="smooth" shadow-offset="1,1" shadow-visible="true" shadow-color="#32000000" gloss-effect="true" wrap-name-text="true" wrap-other-text="true" padding="1" margin="1" glow-color="#FFFFFFFF" accuracy="0.9">
+            <style style-name="Custom Style" shadow-type="smooth" shadow-offset="1,1" shadow-visible="true" shadow-color="#32000000" gloss-effect="true" wrap-name-text="true" wrap-other-text="true" padding="1" margin="1" glow-color="#FFFFFFFF" accuracy="0.9">
               <text-style type="name" use-defaults="false" color="#FF000000" font="Verdana;10;B" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
               <text-style type="part-header" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
               <text-style type="text" use-defaults="false" color="#FF000000" font="Verdana;9;" horizontal-alignment="left" vertical-alignment="center" shadow="false" />
@@ -1548,7 +1544,7 @@
             </style>
           </item>
           <item id="di113945652269014526" cid="WND005" type="ui-window" name="SeverDoorErstellen" style-class="" visibility="package" change-tracking-state="added" creator="P5f6454bcb1e0438798dc56ac8f281b05" creation-date="06/29/2017 08:47:18">
-            <style style-name="Default" shadow-type="smooth" shadow-offset="1,1" shadow-visible="true" shadow-color="#32000000" gloss-effect="true" wrap-name-text="true" wrap-other-text="true" padding="1" margin="1" glow-color="#FFFFFFFF" accuracy="0.9">
+            <style style-name="Custom Style" shadow-type="smooth" shadow-offset="1,1" shadow-visible="true" shadow-color="#32000000" gloss-effect="true" wrap-name-text="true" wrap-other-text="true" padding="1" margin="1" glow-color="#FFFFFFFF" accuracy="0.9">
               <text-style type="name" use-defaults="false" color="#FF000000" font="Verdana;10;B" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
               <text-style type="part-header" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
               <text-style type="text" use-defaults="false" color="#FF000000" font="Verdana;9;" horizontal-alignment="left" vertical-alignment="center" shadow="false" />
@@ -1573,7 +1569,7 @@
             <window show-min-button="true" show-max-button="true" show-close-button="true" show-size-grip="false" />
           </item>
           <item id="di429981521317784027" cid="TXT002" type="ui-text-box" name="Door.." style-class="" owner="di113945652269014526" visibility="package" change-tracking-state="added" creator="P5f6454bcb1e0438798dc56ac8f281b05" creation-date="06/29/2017 08:49:49">
-            <style style-name="Default" shadow-type="smooth" shadow-offset="1,1" shadow-visible="true" shadow-color="#32000000" gloss-effect="true" wrap-name-text="true" wrap-other-text="true" padding="1" margin="1" glow-color="#FFFFFFFF" accuracy="0.9">
+            <style style-name="Custom Style" shadow-type="smooth" shadow-offset="1,1" shadow-visible="true" shadow-color="#32000000" gloss-effect="true" wrap-name-text="true" wrap-other-text="true" padding="1" margin="1" glow-color="#FFFFFFFF" accuracy="0.9">
               <text-style type="name" use-defaults="false" color="#FF000000" font="Verdana;10;B" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
               <text-style type="part-header" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
               <text-style type="text" use-defaults="false" color="#FF000000" font="Verdana;9;" horizontal-alignment="left" vertical-alignment="center" shadow="false" />
@@ -1669,7 +1665,7 @@
             </style>
           </item>
           <item id="di359798081983084628" cid="BTN004" type="ui-button" name="Erstellen " style-class="" owner="di113945652269014526" visibility="package" change-tracking-state="added" creator="P5f6454bcb1e0438798dc56ac8f281b05" creation-date="06/29/2017 08:53:56">
-            <style style-name="Default" shadow-type="smooth" shadow-offset="1,1" shadow-visible="true" shadow-color="#32000000" gloss-effect="true" wrap-name-text="true" wrap-other-text="true" padding="1" margin="1" glow-color="#FFFFFFFF" accuracy="0.9">
+            <style style-name="Custom Style" shadow-type="smooth" shadow-offset="1,1" shadow-visible="true" shadow-color="#32000000" gloss-effect="true" wrap-name-text="true" wrap-other-text="true" padding="1" margin="1" glow-color="#FFFFFFFF" accuracy="0.9">
               <text-style type="name" use-defaults="false" color="#FF000000" font="Verdana;10;B" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
               <text-style type="part-header" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
               <text-style type="text" use-defaults="false" color="#FF000000" font="Verdana;9;" horizontal-alignment="left" vertical-alignment="center" shadow="false" />
@@ -1693,7 +1689,7 @@
             </style>
           </item>
           <item id="di395828959768824253" cid="WND005" type="ui-window" name="SeverDoorErstellen" style-class="" visibility="package" change-tracking-state="added" creator="P5f6454bcb1e0438798dc56ac8f281b05" creation-date="06/29/2017 08:47:18">
-            <style style-name="Default" shadow-type="smooth" shadow-offset="1,1" shadow-visible="true" shadow-color="#32000000" gloss-effect="true" wrap-name-text="true" wrap-other-text="true" padding="1" margin="1" glow-color="#FFFFFFFF" accuracy="0.9">
+            <style style-name="Custom Style" shadow-type="smooth" shadow-offset="1,1" shadow-visible="true" shadow-color="#32000000" gloss-effect="true" wrap-name-text="true" wrap-other-text="true" padding="1" margin="1" glow-color="#FFFFFFFF" accuracy="0.9">
               <text-style type="name" use-defaults="false" color="#FF000000" font="Verdana;10;B" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
               <text-style type="part-header" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
               <text-style type="text" use-defaults="false" color="#FF000000" font="Verdana;9;" horizontal-alignment="left" vertical-alignment="center" shadow="false" />
@@ -1718,7 +1714,7 @@
             <window show-min-button="true" show-max-button="true" show-close-button="true" show-size-grip="false" />
           </item>
           <item id="di444088601872287604" cid="TXT002" type="ui-text-box" name="testdoor_{name}" style-class="" owner="di395828959768824253" visibility="package" change-tracking-state="added" creator="P5f6454bcb1e0438798dc56ac8f281b05" creation-date="06/29/2017 08:49:49">
-            <style style-name="Default" shadow-type="smooth" shadow-offset="1,1" shadow-visible="true" shadow-color="#32000000" gloss-effect="true" wrap-name-text="true" wrap-other-text="true" padding="1" margin="1" glow-color="#FFFFFFFF" accuracy="0.9">
+            <style style-name="Custom Style" shadow-type="smooth" shadow-offset="1,1" shadow-visible="true" shadow-color="#32000000" gloss-effect="true" wrap-name-text="true" wrap-other-text="true" padding="1" margin="1" glow-color="#FFFFFFFF" accuracy="0.9">
               <text-style type="name" use-defaults="false" color="#FF000000" font="Verdana;10;B" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
               <text-style type="part-header" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
               <text-style type="text" use-defaults="false" color="#FF000000" font="Verdana;9;" horizontal-alignment="left" vertical-alignment="center" shadow="false" />
@@ -1814,7 +1810,7 @@
             </style>
           </item>
           <item id="di373369746527381902" cid="BTN004" type="ui-button" name="Erstellen " style-class="" owner="di395828959768824253" visibility="package" change-tracking-state="added" creator="P5f6454bcb1e0438798dc56ac8f281b05" creation-date="06/29/2017 08:53:56">
-            <style style-name="Default" shadow-type="smooth" shadow-offset="1,1" shadow-visible="true" shadow-color="#32000000" gloss-effect="true" wrap-name-text="true" wrap-other-text="true" padding="1" margin="1" glow-color="#FFFFFFFF" accuracy="0.9">
+            <style style-name="Custom Style" shadow-type="smooth" shadow-offset="1,1" shadow-visible="true" shadow-color="#32000000" gloss-effect="true" wrap-name-text="true" wrap-other-text="true" padding="1" margin="1" glow-color="#FFFFFFFF" accuracy="0.9">
               <text-style type="name" use-defaults="false" color="#FF000000" font="Verdana;10;B" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
               <text-style type="part-header" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
               <text-style type="text" use-defaults="false" color="#FF000000" font="Verdana;9;" horizontal-alignment="left" vertical-alignment="center" shadow="false" />
@@ -1840,8 +1836,221 @@
           <item id="di349486414419133731" cid="ELEM017" type="universal-connector" name="Derive / Zeige ServerDoorErstellen" style-class="" visibility="package" change-tracking-state="added" creation-date="06/29/2017 11:30:39" from="di506554532659200060" to="di395828959768824253">
             <style class="default" />
           </item>
-          <item id="di612813632169235245" cid="BTN001" type="ui-button" name="DMOmanager" style-class="" owner="di278187900429466137" visibility="package" change-tracking-state="added" creator="P5f6454bcb1e0438798dc56ac8f281b05" creation-date="06/29/2017 07:39:15">
+          <item id="di612813632169235245" cid="BTN001" type="ui-button" name="DMO-Manager" style-class="" owner="di278187900429466137" visibility="package" change-tracking-state="added" creator="P5f6454bcb1e0438798dc56ac8f281b05" creation-date="06/29/2017 07:39:15">
             <style class="default" />
+          </item>
+          <item id="di154022017602578996" cid="LBL001" type="ui-label" name="teststack" style-class="" owner="di644030823934714318" visibility="package" change-tracking-state="added" creator="P5f6454bcb1e0438798dc56ac8f281b05" creation-date="06/29/2017 08:04:49">
+            <style class="default" />
+          </item>
+          <item id="di162887108520074064" cid="LBL001" type="ui-label" name="teststack" style-class="" owner="di611974220747105246" visibility="package" change-tracking-state="added" creator="P5f6454bcb1e0438798dc56ac8f281b05" creation-date="06/29/2017 08:04:49">
+            <style class="default" />
+          </item>
+          <item id="di363971413307695815" cid="LBL001" type="ui-label" name="teststack" style-class="" owner="di231317890511054898" visibility="package" change-tracking-state="added" creator="P5f6454bcb1e0438798dc56ac8f281b05" creation-date="06/29/2017 08:04:49">
+            <style class="default" />
+          </item>
+          <item id="di749982647681680565" cid="LBL001" type="ui-label" name="teststack" style-class="" owner="di774969966985613175" visibility="package" change-tracking-state="added" creator="P5f6454bcb1e0438798dc56ac8f281b05" creation-date="06/29/2017 08:04:49">
+            <style class="default" />
+          </item>
+          <item id="di755386698145039931" cid="BTN002" type="ui-button" name="Lokal" style-class="" owner="di273243628404264973" visibility="package" change-tracking-state="added" creator="P5f6454bcb1e0438798dc56ac8f281b05" creation-date="06/29/2017 07:56:35">
+            <style style-name="Custom Style" shadow-type="smooth" shadow-offset="1,1" shadow-visible="true" shadow-color="#32000000" gloss-effect="true" wrap-name-text="true" wrap-other-text="true" padding="1" margin="1" glow-color="#FFFFFFFF" accuracy="0.9">
+              <text-style type="name" use-defaults="false" color="#FF000000" font="Verdana;10;B" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+              <text-style type="part-header" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+              <text-style type="text" use-defaults="false" color="#FF000000" font="Verdana;9;" horizontal-alignment="left" vertical-alignment="center" shadow="false" />
+              <text-style type="tagged-value" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+              <text-style type="stereotype" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+              <background type="forward-diagonal" color="#FFFFFFFF" color2="#FFFFFFFF" />
+              <border color="#FF000000" width="1" dash-style="Solid" />
+              <label-connector color="#80000000" width="1" dash-style="Dash" />
+              <alternate-styles>
+                <alternate-style style-name="Alternate" shadow-type="smooth" shadow-offset="1,1" shadow-color="#32000000" gloss-effect="true" wrap-name-text="true" padding="1" margin="1" glow-color="#FFFFFFFF" accuracy="0.9">
+                  <text-style type="name" use-defaults="false" color="#FF000000" font="Verdana;10;B" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+                  <text-style type="part-header" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+                  <text-style type="text" use-defaults="false" color="#FF000000" font="Verdana;9;" horizontal-alignment="left" vertical-alignment="center" shadow="false" />
+                  <text-style type="tagged-value" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+                  <text-style type="stereotype" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+                  <background type="vertical-linear" color="#FF1E90FF" color2="#FF87CEFA" />
+                  <border color="#FF00008B" width="1" dash-style="Solid" />
+                  <label-connector color="#FF000000" width="1" dash-style="Solid" />
+                </alternate-style>
+              </alternate-styles>
+            </style>
+          </item>
+          <item id="di318411362386386567" cid="BTN002" type="ui-button" name="Zurück" style-class="" visibility="package" change-tracking-state="added" creator="P5f6454bcb1e0438798dc56ac8f281b05" creation-date="06/29/2017 07:56:35">
+            <style class="default" />
+          </item>
+          <item id="di395328212616187374" cid="BTN003" type="ui-button" name="i" style-class="" visibility="package" change-tracking-state="added" creator="P5f6454bcb1e0438798dc56ac8f281b05" creation-date="06/29/2017 08:04:15">
+            <style class="default" />
+          </item>
+          <item id="di644030823934714318" cid="ELEM003" type="ui-panel" name="testdoor" style-class="" visibility="package" change-tracking-state="added" creator="P5f6454bcb1e0438798dc56ac8f281b05" creation-date="06/29/2017 08:04:25">
+            <style class="default" />
+          </item>
+          <item id="di147121381864744952" cid="BTN003" type="ui-button" name="Herunterladen" style-class="" visibility="package" change-tracking-state="added" creator="P5f6454bcb1e0438798dc56ac8f281b05" creation-date="06/29/2017 08:04:15">
+            <style style-name="Custom Style" shadow-type="smooth" shadow-offset="1,1" shadow-visible="true" shadow-color="#32000000" gloss-effect="true" wrap-name-text="true" wrap-other-text="true" padding="1" margin="1" glow-color="#FFFFFFFF" accuracy="0.9">
+              <text-style type="name" use-defaults="false" color="#FF000000" font="Verdana;8;B" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+              <text-style type="part-header" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+              <text-style type="text" use-defaults="false" color="#FF000000" font="Verdana;9;" horizontal-alignment="left" vertical-alignment="center" shadow="false" />
+              <text-style type="tagged-value" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+              <text-style type="stereotype" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+              <background type="forward-diagonal" color="#FFFFFFFF" color2="#FFEBEBEB" />
+              <border color="#FF000000" width="1" dash-style="Solid" />
+              <label-connector color="#80000000" width="1" dash-style="Dash" />
+              <alternate-styles>
+                <alternate-style style-name="Alternate" shadow-type="smooth" shadow-offset="1,1" shadow-color="#32000000" gloss-effect="true" wrap-name-text="true" padding="1" margin="1" glow-color="#FFFFFFFF" accuracy="0.9">
+                  <text-style type="name" use-defaults="false" color="#FF000000" font="Verdana;10;B" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+                  <text-style type="part-header" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+                  <text-style type="text" use-defaults="false" color="#FF000000" font="Verdana;9;" horizontal-alignment="left" vertical-alignment="center" shadow="false" />
+                  <text-style type="tagged-value" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+                  <text-style type="stereotype" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+                  <background type="vertical-linear" color="#FF1E90FF" color2="#FF87CEFA" />
+                  <border color="#FF00008B" width="1" dash-style="Solid" />
+                  <label-connector color="#FF000000" width="1" dash-style="Solid" />
+                </alternate-style>
+              </alternate-styles>
+            </style>
+          </item>
+          <item id="di730668391606231054" cid="BTN003" type="ui-button" name="i" style-class="" visibility="package" change-tracking-state="added" creator="P5f6454bcb1e0438798dc56ac8f281b05" creation-date="06/29/2017 08:04:15">
+            <style class="default" />
+          </item>
+          <item id="di532733655168259517" cid="BTN003" type="ui-button" name="Herunterladen" style-class="" visibility="package" change-tracking-state="added" creator="P5f6454bcb1e0438798dc56ac8f281b05" creation-date="06/29/2017 08:04:15">
+            <style style-name="Custom Style" shadow-type="smooth" shadow-offset="1,1" shadow-visible="true" shadow-color="#32000000" gloss-effect="true" wrap-name-text="true" wrap-other-text="true" padding="1" margin="1" glow-color="#FFFFFFFF" accuracy="0.9">
+              <text-style type="name" use-defaults="false" color="#FF000000" font="Verdana;8;B" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+              <text-style type="part-header" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+              <text-style type="text" use-defaults="false" color="#FF000000" font="Verdana;9;" horizontal-alignment="left" vertical-alignment="center" shadow="false" />
+              <text-style type="tagged-value" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+              <text-style type="stereotype" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+              <background type="forward-diagonal" color="#FFFFFFFF" color2="#FFEBEBEB" />
+              <border color="#FF000000" width="1" dash-style="Solid" />
+              <label-connector color="#80000000" width="1" dash-style="Dash" />
+              <alternate-styles>
+                <alternate-style style-name="Alternate" shadow-type="smooth" shadow-offset="1,1" shadow-color="#32000000" gloss-effect="true" wrap-name-text="true" padding="1" margin="1" glow-color="#FFFFFFFF" accuracy="0.9">
+                  <text-style type="name" use-defaults="false" color="#FF000000" font="Verdana;10;B" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+                  <text-style type="part-header" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+                  <text-style type="text" use-defaults="false" color="#FF000000" font="Verdana;9;" horizontal-alignment="left" vertical-alignment="center" shadow="false" />
+                  <text-style type="tagged-value" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+                  <text-style type="stereotype" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+                  <background type="vertical-linear" color="#FF1E90FF" color2="#FF87CEFA" />
+                  <border color="#FF00008B" width="1" dash-style="Solid" />
+                  <label-connector color="#FF000000" width="1" dash-style="Solid" />
+                </alternate-style>
+              </alternate-styles>
+            </style>
+          </item>
+          <item id="di611974220747105246" cid="ELEM003" type="ui-panel" name="testdoor" style-class="" visibility="package" change-tracking-state="added" creator="P5f6454bcb1e0438798dc56ac8f281b05" creation-date="06/29/2017 08:04:25">
+            <style class="default" />
+          </item>
+          <item id="di926152630184029813" cid="BTN003" type="ui-button" name="i" style-class="" visibility="package" change-tracking-state="added" creator="P5f6454bcb1e0438798dc56ac8f281b05" creation-date="06/29/2017 08:04:15">
+            <style class="default" />
+          </item>
+          <item id="di699510601525486510" cid="BTN003" type="ui-button" name="Herunterladen" style-class="" visibility="package" change-tracking-state="added" creator="P5f6454bcb1e0438798dc56ac8f281b05" creation-date="06/29/2017 08:04:15">
+            <style style-name="Custom Style" shadow-type="smooth" shadow-offset="1,1" shadow-visible="true" shadow-color="#32000000" gloss-effect="true" wrap-name-text="true" wrap-other-text="true" padding="1" margin="1" glow-color="#FFFFFFFF" accuracy="0.9">
+              <text-style type="name" use-defaults="false" color="#FF000000" font="Verdana;8;B" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+              <text-style type="part-header" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+              <text-style type="text" use-defaults="false" color="#FF000000" font="Verdana;9;" horizontal-alignment="left" vertical-alignment="center" shadow="false" />
+              <text-style type="tagged-value" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+              <text-style type="stereotype" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+              <background type="forward-diagonal" color="#FFFFFFFF" color2="#FFEBEBEB" />
+              <border color="#FF000000" width="1" dash-style="Solid" />
+              <label-connector color="#80000000" width="1" dash-style="Dash" />
+              <alternate-styles>
+                <alternate-style style-name="Alternate" shadow-type="smooth" shadow-offset="1,1" shadow-color="#32000000" gloss-effect="true" wrap-name-text="true" padding="1" margin="1" glow-color="#FFFFFFFF" accuracy="0.9">
+                  <text-style type="name" use-defaults="false" color="#FF000000" font="Verdana;10;B" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+                  <text-style type="part-header" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+                  <text-style type="text" use-defaults="false" color="#FF000000" font="Verdana;9;" horizontal-alignment="left" vertical-alignment="center" shadow="false" />
+                  <text-style type="tagged-value" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+                  <text-style type="stereotype" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+                  <background type="vertical-linear" color="#FF1E90FF" color2="#FF87CEFA" />
+                  <border color="#FF00008B" width="1" dash-style="Solid" />
+                  <label-connector color="#FF000000" width="1" dash-style="Solid" />
+                </alternate-style>
+              </alternate-styles>
+            </style>
+          </item>
+          <item id="di438716346662477532" cid="BTN003" type="ui-button" name="i" style-class="" visibility="package" change-tracking-state="added" creator="P5f6454bcb1e0438798dc56ac8f281b05" creation-date="06/29/2017 08:04:15">
+            <style class="default" />
+          </item>
+          <item id="di231317890511054898" cid="ELEM003" type="ui-panel" name="testdoor" style-class="" visibility="package" change-tracking-state="added" creator="P5f6454bcb1e0438798dc56ac8f281b05" creation-date="06/29/2017 08:04:25">
+            <style class="default" />
+          </item>
+          <item id="di772819492707870995" cid="BTN003" type="ui-button" name="Herunterladen" style-class="" visibility="package" change-tracking-state="added" creator="P5f6454bcb1e0438798dc56ac8f281b05" creation-date="06/29/2017 08:04:15">
+            <style style-name="Custom Style" shadow-type="smooth" shadow-offset="1,1" shadow-visible="true" shadow-color="#32000000" gloss-effect="true" wrap-name-text="true" wrap-other-text="true" padding="1" margin="1" glow-color="#FFFFFFFF" accuracy="0.9">
+              <text-style type="name" use-defaults="false" color="#FF000000" font="Verdana;8;B" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+              <text-style type="part-header" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+              <text-style type="text" use-defaults="false" color="#FF000000" font="Verdana;9;" horizontal-alignment="left" vertical-alignment="center" shadow="false" />
+              <text-style type="tagged-value" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+              <text-style type="stereotype" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+              <background type="forward-diagonal" color="#FFFFFFFF" color2="#FFEBEBEB" />
+              <border color="#FF000000" width="1" dash-style="Solid" />
+              <label-connector color="#80000000" width="1" dash-style="Dash" />
+              <alternate-styles>
+                <alternate-style style-name="Alternate" shadow-type="smooth" shadow-offset="1,1" shadow-color="#32000000" gloss-effect="true" wrap-name-text="true" padding="1" margin="1" glow-color="#FFFFFFFF" accuracy="0.9">
+                  <text-style type="name" use-defaults="false" color="#FF000000" font="Verdana;10;B" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+                  <text-style type="part-header" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+                  <text-style type="text" use-defaults="false" color="#FF000000" font="Verdana;9;" horizontal-alignment="left" vertical-alignment="center" shadow="false" />
+                  <text-style type="tagged-value" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+                  <text-style type="stereotype" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+                  <background type="vertical-linear" color="#FF1E90FF" color2="#FF87CEFA" />
+                  <border color="#FF00008B" width="1" dash-style="Solid" />
+                  <label-connector color="#FF000000" width="1" dash-style="Solid" />
+                </alternate-style>
+              </alternate-styles>
+            </style>
+          </item>
+          <item id="di383913650942577229" cid="BTN002" type="ui-button" name="Suchen" style-class="" visibility="package" change-tracking-state="added" creator="P5f6454bcb1e0438798dc56ac8f281b05" creation-date="06/29/2017 07:56:35">
+            <style class="default" />
+          </item>
+          <item id="di774969966985613175" cid="ELEM003" type="ui-panel" name="testdoor" style-class="" visibility="package" change-tracking-state="added" creator="P5f6454bcb1e0438798dc56ac8f281b05" creation-date="06/29/2017 08:04:25">
+            <style class="default" />
+          </item>
+          <item id="di369733284699942008" cid="TXT001" type="ui-text-box" name="Suche Stack..." style-class="" visibility="package" change-tracking-state="added" creator="P5f6454bcb1e0438798dc56ac8f281b05" creation-date="06/29/2017 08:03:04">
+            <style style-name="Custom Style" shadow-type="smooth" shadow-offset="1,1" shadow-visible="true" shadow-color="#32000000" gloss-effect="true" wrap-name-text="true" wrap-other-text="true" padding="1" margin="1" glow-color="#FFFFFFFF" accuracy="0.9">
+              <text-style type="name" use-defaults="false" color="#FF7F7F7F" font="Verdana;10;B" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+              <text-style type="part-header" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+              <text-style type="text" use-defaults="false" color="#FF000000" font="Verdana;9;" horizontal-alignment="left" vertical-alignment="center" shadow="false" />
+              <text-style type="tagged-value" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+              <text-style type="stereotype" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+              <background type="forward-diagonal" color="#FFFFFFFF" color2="#FFEBEBEB" />
+              <border color="#FF000000" width="1" dash-style="Solid" />
+              <label-connector color="#80000000" width="1" dash-style="Dash" />
+              <alternate-styles>
+                <alternate-style style-name="Alternate" shadow-type="smooth" shadow-offset="1,1" shadow-color="#32000000" gloss-effect="true" wrap-name-text="true" padding="1" margin="1" glow-color="#FFFFFFFF" accuracy="0.9">
+                  <text-style type="name" use-defaults="false" color="#FF000000" font="Verdana;10;B" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+                  <text-style type="part-header" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+                  <text-style type="text" use-defaults="false" color="#FF000000" font="Verdana;9;" horizontal-alignment="left" vertical-alignment="center" shadow="false" />
+                  <text-style type="tagged-value" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+                  <text-style type="stereotype" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+                  <background type="vertical-linear" color="#FF1E90FF" color2="#FF87CEFA" />
+                  <border color="#FF00008B" width="1" dash-style="Solid" />
+                  <label-connector color="#FF000000" width="1" dash-style="Solid" />
+                </alternate-style>
+              </alternate-styles>
+            </style>
+          </item>
+          <item id="di273243628404264973" cid="ELEM002" type="ui-toolbar" name="Toolbar1" style-class="" visibility="package" change-tracking-state="added" creator="P5f6454bcb1e0438798dc56ac8f281b05" creation-date="06/29/2017 07:56:20">
+            <style class="default" />
+          </item>
+          <item id="di265975318112350872" cid="BTN002" type="ui-button" name="Server" style-class="" owner="di273243628404264973" visibility="package" change-tracking-state="added" creator="P5f6454bcb1e0438798dc56ac8f281b05" creation-date="06/29/2017 07:56:35">
+            <style style-name="Custom Style" shadow-type="smooth" shadow-offset="1,1" shadow-visible="true" shadow-color="#32000000" gloss-effect="true" wrap-name-text="true" wrap-other-text="true" padding="1" margin="1" glow-color="#FFFFFFFF" accuracy="0.9">
+              <text-style type="name" use-defaults="false" color="#FF000000" font="Verdana;10;B" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+              <text-style type="part-header" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+              <text-style type="text" use-defaults="false" color="#FF000000" font="Verdana;9;" horizontal-alignment="left" vertical-alignment="center" shadow="false" />
+              <text-style type="tagged-value" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+              <text-style type="stereotype" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+              <background type="forward-diagonal" color="#FFFF0000" color2="#FFEBEBEB" />
+              <border color="#FF000000" width="1" dash-style="Solid" />
+              <label-connector color="#80000000" width="1" dash-style="Dash" />
+              <alternate-styles>
+                <alternate-style style-name="Alternate" shadow-type="smooth" shadow-offset="1,1" shadow-color="#32000000" gloss-effect="true" wrap-name-text="true" padding="1" margin="1" glow-color="#FFFFFFFF" accuracy="0.9">
+                  <text-style type="name" use-defaults="false" color="#FF000000" font="Verdana;10;B" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+                  <text-style type="part-header" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+                  <text-style type="text" use-defaults="false" color="#FF000000" font="Verdana;9;" horizontal-alignment="left" vertical-alignment="center" shadow="false" />
+                  <text-style type="tagged-value" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+                  <text-style type="stereotype" use-defaults="false" color="#FF1E1E1E" font="Verdana;9;I" horizontal-alignment="center" vertical-alignment="center" shadow="false" />
+                  <background type="vertical-linear" color="#FF1E90FF" color2="#FF87CEFA" />
+                  <border color="#FF00008B" width="1" dash-style="Solid" />
+                  <label-connector color="#FF000000" width="1" dash-style="Solid" />
+                </alternate-style>
+              </alternate-styles>
+            </style>
           </item>
         </abstract-items>
         <layer name="Default" visible="true" enabled="true" locked="false">
@@ -1929,17 +2138,17 @@
           <item id="di163238606471797815" iid="fadfa414ea3147edb2d8744410de9f3c" container="di227930294258026199" container-iid="5d67c83ffef64c669d10df915c0e8fb1" creation-date="06/29/2017 07:56:20" order-index="4" type="ui-toolbar">
             <layout ax="913.053" ay="716.3024" awidth="223" aheight="42" x="913.053" y="716.3024" width="223" height="42" />
           </item>
-          <item id="di262945673413469477" iid="5faefd111f644f2f8bc3f2350e94efd0" container="di163238606471797815" container-iid="fadfa414ea3147edb2d8744410de9f3c" creation-date="06/29/2017 07:56:35" order-index="5" type="ui-button">
-            <layout ax="1035.366" ay="717.1707" awidth="100" aheight="40" x="1035.366" y="717.1707" width="100" height="40" />
+          <item id="di262945673413469477" iid="5faefd111f644f2f8bc3f2350e94efd0" creation-date="06/29/2017 07:56:35" order-index="5" type="ui-button">
+            <layout ax="933.9031" ay="719.6827" awidth="100" aheight="40" x="933.9031" y="719.6827" width="100" height="40" />
           </item>
           <item id="di799050560990246188" iid="8943d11af6e74f90a8cf55a731819379" container="di163238606471797815" container-iid="fadfa414ea3147edb2d8744410de9f3c" creation-date="06/29/2017 07:56:35" order-index="5" type="ui-button">
-            <layout ax="941.1193" ay="717.2906" awidth="102" aheight="40" x="941.1193" y="717.2906" width="102" height="40" />
+            <layout ax="1033.903" ay="719.6827" awidth="102" aheight="40" x="1033.903" y="719.6827" width="102" height="40" />
           </item>
           <item id="di837092779529061403" iid="196a5c7e28074ba08968ae1582ddecc7" container="di227930294258026199" container-iid="5d67c83ffef64c669d10df915c0e8fb1" creation-date="06/29/2017 08:04:25" order-index="8" type="ui-panel">
             <layout ax="913.0348" ay="775.4327" awidth="223" aheight="32" x="913.0348" y="775.4327" width="223" height="32" />
           </item>
           <item id="di847209994978074766" iid="462cc54410bf492398150389c414f40d" container="di837092779529061403" container-iid="196a5c7e28074ba08968ae1582ddecc7" creation-date="06/29/2017 08:04:49" order-index="9" type="ui-label">
-            <layout ax="964.123" ay="777.1439" awidth="121" aheight="28.5" x="964.123" y="777.1439" width="121" height="28.5" />
+            <layout ax="963.9937" ay="776.7402" awidth="121" aheight="28.5" x="963.9937" y="776.7402" width="121" height="28.5" />
           </item>
           <item id="di731781991103435760" iid="ccbb4d2a366e4728810789e900fab791" container="di227930294258026199" container-iid="5d67c83ffef64c669d10df915c0e8fb1" creation-date="06/29/2017 08:04:15" order-index="7" type="ui-button">
             <layout ax="1149.364" ay="773.4902" awidth="35" aheight="35" x="1149.364" y="773.4902" width="35" height="35" />
@@ -1948,7 +2157,7 @@
             <layout ax="913.0174" ay="811.7521" awidth="223" aheight="30.68493" x="913.0174" y="811.7521" width="223" height="30.68493" />
           </item>
           <item id="di315856521993195201" iid="14fe9a4067584a0ea36f2d6ed349fce7" container="di783352318809413128" container-iid="16fa2d6cb5e240db8740d0bdd40b5417" creation-date="06/29/2017 08:04:49" order-index="9" type="ui-label">
-            <layout ax="964.0884" ay="813.3906" awidth="121" aheight="27.3288" x="964.0884" y="813.3906" width="121" height="27.3288" />
+            <layout ax="964.053" ay="813.4301" awidth="121" aheight="27.3288" x="964.053" y="813.4301" width="121" height="27.3288" />
           </item>
           <item id="di704293913355804168" iid="8841fad9605442ec921dcccb2e81bf26" container="di227930294258026199" container-iid="5d67c83ffef64c669d10df915c0e8fb1" creation-date="06/29/2017 08:04:15" order-index="7" type="ui-button">
             <layout ax="1149.255" ay="809.9293" awidth="35" aheight="33.56165" x="1149.255" y="809.9293" width="35" height="33.56165" />
@@ -1957,7 +2166,7 @@
             <layout ax="912.9937" ay="856.8181" awidth="223" aheight="37.25" x="912.9937" y="856.8181" width="223" height="37.25" />
           </item>
           <item id="di174383320590681860" iid="2c2110bf03294a468a3584c70118ecdd" container="di688984426604201606" container-iid="ee2908778cfb485989ee17ee202bbda7" creation-date="06/29/2017 08:04:49" order-index="9" type="ui-label">
-            <layout ax="964.0444" ay="861.7374" awidth="121" aheight="27.3288" x="964.0444" y="861.7374" width="121" height="27.3288" />
+            <layout ax="963.9937" ay="861.7787" awidth="121" aheight="27.3288" x="963.9937" y="861.7787" width="121" height="27.3288" />
           </item>
           <item id="di270560198580580363" iid="7825e6c0575a49e5932ab67c66db4add" creation-date="06/29/2017 08:41:04" order-index="11" type="relation">
             <layout line-style="oblique" lock-start-point="true" lock-end-point="true" lock-to-fields="false" auto-path="" x1="704" y1="823" x2="903" y2="822" start-border-pos="0.375" end-border-pos="0.864035087719298" name-position="1,-33" name-width="206">
