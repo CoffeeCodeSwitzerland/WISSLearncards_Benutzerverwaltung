@@ -1,0 +1,15 @@
+TabPane tabPane = new TabPane();
+		 
+	      BorderPane borderPane = new BorderPane();
+	      for (int i = 0; i < 3; i++) {
+	         Tab tab = new Tab();
+	         tab.setText("Tab " + i);
+	         HBox hbox = new HBox();
+	         hbox.setStyle("-fx-background-color: #fcffcc;");
+	         hbox.getChildren().add(new Label("Tab" + i));
+	         hbox.setAlignment(Pos.CENTER);
+	         tab.setContent(hbox);
+	         tabPane.getTabs().add(tab);
+	      }
+	      borderPane.setCenter(tabPane);
+	      doorLayout.getChildren().add(borderPane);
