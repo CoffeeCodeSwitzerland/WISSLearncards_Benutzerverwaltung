@@ -1,0 +1,25 @@
+To do:
+------
+ - GUI umsetzen
+ - DB-Connection herstellen
+ - DB-CREATE erstellen
+ - TABLE-CREATE erstellen
+ - Benutzererfassung umsetzen
+ - Login umsetzen
+ - Dokumentation abschliessen
+
+
+
+To plan:
+--------
+ - INSERT-Statements erstellen
+ - SELECT-Statements erstellen
+ - UPDATE-Statements erstellen
+ - DELETE-Statements erstellen
+ - Trash automatisieren
+ - Lock-Mechanismus realisieren
+ - Merge-Vorgang erstellen
+ - CardTable, DoorTable und StackTable-CREATEs automatisieren
+ - Gruppen- und Rechteverwaltung umsetzen
+ - alle vorgegebenen Informationen bzw. Ausgaben taus der GUI-Planung ausgeben
+ - Passwort-Encrypting realisieren [One-Way Hash]
