@@ -4,8 +4,6 @@ To do:
  - DB-Connection herstellen
  - DB-CREATE erstellen
  - TABLE-CREATE erstellen
- - Benutzererfassung umsetzen
- - Login umsetzen
  - Dokumentation abschliessen
 
 
@@ -21,5 +19,5 @@ To plan:
  - Merge-Vorgang erstellen
  - CardTable, DoorTable und StackTable-CREATEs automatisieren
  - Gruppen- und Rechteverwaltung umsetzen
- - alle vorgegebenen Informationen bzw. Ausgaben taus der GUI-Planung ausgeben
+ - alle vorgegebenen Informationen bzw. Ausgaben aus der GUI-Planung ausgeben
  - Passwort-Encrypting realisieren [One-Way Hash]

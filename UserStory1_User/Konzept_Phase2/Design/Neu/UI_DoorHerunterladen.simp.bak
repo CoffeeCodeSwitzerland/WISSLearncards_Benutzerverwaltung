@@ -95,7 +95,7 @@
       </counter>
       <counter>
         <item-type type-id="" type="AbstractElementGroup" />
-        <value>27</value>
+        <value>17</value>
       </counter>
     </entity-ids>
     <diagrams>
@@ -148,7 +148,7 @@
       </meta>
       <abstract-items />
       <sub-models />
-      <diagram type="user-interface" id="p7cf67c07111e4cf4ae9e1a0bc2993c62_998755282" name="UserInterfaceDiagram1" order-index="1" show-id="false" show-name="true" show-parent-name="false" show-stereotypes="true" show-tagged-values="false" show-template-parameters="true" show-fields="true" show-empty-compartments="true" show-special-indicators="false" show-attributes="true" show-attribute-visibility="true" show-operations="true" show-operation-parameters="true" show-operation-visibility="true" show-nullability="true" show-sequence-number="false" show-extension-points="false" show-relationship-texts="true" show-description="false" show-field-description="false" auto-routed-paths="false" view-location="292,577">
+      <diagram type="user-interface" id="p7cf67c07111e4cf4ae9e1a0bc2993c62_998755282" name="UserInterfaceDiagram1" order-index="1" show-id="false" show-name="true" show-parent-name="false" show-stereotypes="true" show-tagged-values="false" show-template-parameters="true" show-fields="true" show-empty-compartments="true" show-special-indicators="false" show-attributes="true" show-attribute-visibility="true" show-operations="true" show-operation-parameters="true" show-operation-visibility="true" show-nullability="true" show-sequence-number="false" show-extension-points="false" show-relationship-texts="true" show-description="false" show-field-description="false" auto-routed-paths="false" view-location="292,37">
         <size width="1" height="1" unit="px" type="ExpandableAllDirections" />
         <style>
           <background-color index="1" color="#FFFFFFFF" />
